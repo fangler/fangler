@@ -6,9 +6,9 @@
 
 ### 3. DONE
 <!-- BLOG-POST-LIST:START -->
-- [瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9762170)
-- [「虚与委蛇」中的「蛇」为什么读 yi ?](https://daily.zhihu.com/story/9762058)
-- [请问如何判断一个动词后是加 to do，还是加 doing？](https://daily.zhihu.com/story/9762069)
-- [熬夜最伤害哪里？](https://daily.zhihu.com/story/9762073)
-- [为什么空气中 N 元素这么多，但没有一个动物进化到可以利用空气中的氮气合成氨基酸呢？](https://daily.zhihu.com/story/9762090)
+- [如何解释高山顶上的变质岩和沉积岩的存在呢?](https://daily.zhihu.com/story/9762183)
+- [有哪些方言土话其实是沿用古称，比如香菜叫芫荽 &lpar;yán sui&rpar;，勺子叫「调羹」？](https://daily.zhihu.com/story/9762121)
+- [有哪些第一眼就感到震撼的图片？](https://daily.zhihu.com/story/9762173)
+- [为什么冲豆浆粉容易结块，而冲咖啡粉不会有这种现象？](https://daily.zhihu.com/story/9762214)
+- [如何定义和测量恒星的直径？](https://daily.zhihu.com/story/9762220)
 <!-- BLOG-POST-LIST:END -->
