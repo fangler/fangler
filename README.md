@@ -6,9 +6,9 @@
 
 ### 3. DONE
 <!-- BLOG-POST-LIST:START -->
-- [如何解释高山顶上的变质岩和沉积岩的存在呢?](https://daily.zhihu.com/story/9762183)
-- [有哪些方言土话其实是沿用古称，比如香菜叫芫荽 &lpar;yán sui&rpar;，勺子叫「调羹」？](https://daily.zhihu.com/story/9762121)
-- [有哪些第一眼就感到震撼的图片？](https://daily.zhihu.com/story/9762173)
-- [为什么冲豆浆粉容易结块，而冲咖啡粉不会有这种现象？](https://daily.zhihu.com/story/9762214)
-- [如何定义和测量恒星的直径？](https://daily.zhihu.com/story/9762220)
+- [锂电池经常爆炸，为啥不用（便宜，很重，安全）的铅酸电池？](https://daily.zhihu.com/story/9762126)
+- [人类没有离开太阳系，是怎么看到银河系全貌的？](https://daily.zhihu.com/story/9762134)
+- [变奏曲、协奏曲、交响曲、奏鸣曲等有什么区别？](https://daily.zhihu.com/story/9762149)
+- [宇宙中有哪些很美丽、震撼、神奇的现象？](https://daily.zhihu.com/story/9762165)
+- [用热水煮东西和用冷水煮东西，有什么质的区别？](https://daily.zhihu.com/story/9762315)
 <!-- BLOG-POST-LIST:END -->
