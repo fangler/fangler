@@ -6,9 +6,9 @@
 
 ### 3. DONE
 <!-- BLOG-POST-LIST:START -->
-- [锂电池经常爆炸，为啥不用（便宜，很重，安全）的铅酸电池？](https://daily.zhihu.com/story/9762126)
-- [人类没有离开太阳系，是怎么看到银河系全貌的？](https://daily.zhihu.com/story/9762134)
-- [变奏曲、协奏曲、交响曲、奏鸣曲等有什么区别？](https://daily.zhihu.com/story/9762149)
-- [宇宙中有哪些很美丽、震撼、神奇的现象？](https://daily.zhihu.com/story/9762165)
-- [用热水煮东西和用冷水煮东西，有什么质的区别？](https://daily.zhihu.com/story/9762315)
+- [如何理解「混沌理论」，它有什么特性，有哪些著名的例子？](https://daily.zhihu.com/story/9762175)
+- [为什么长江以北的省份海岸线整体平整，而长江以南的海岸线却整体崎岖？](https://daily.zhihu.com/story/9762306)
+- [自动控制方面的大牛们都有哪些主要贡献？](https://daily.zhihu.com/story/9762189)
+- [有哪些外行看上去很普通，但在内行眼里其实非常高级的东西？](https://daily.zhihu.com/story/9762192)
+- [哪些数学命题曾经长期被误认为是正确的，但之后被严格证明是错的？](https://daily.zhihu.com/story/9762195)
 <!-- BLOG-POST-LIST:END -->
