@@ -6,9 +6,9 @@
 
 ### 3. DONE
 <!-- BLOG-POST-LIST:START -->
-- [如何理解「混沌理论」，它有什么特性，有哪些著名的例子？](https://daily.zhihu.com/story/9762175)
-- [为什么长江以北的省份海岸线整体平整，而长江以南的海岸线却整体崎岖？](https://daily.zhihu.com/story/9762306)
-- [自动控制方面的大牛们都有哪些主要贡献？](https://daily.zhihu.com/story/9762189)
-- [有哪些外行看上去很普通，但在内行眼里其实非常高级的东西？](https://daily.zhihu.com/story/9762192)
-- [哪些数学命题曾经长期被误认为是正确的，但之后被严格证明是错的？](https://daily.zhihu.com/story/9762195)
+- [中国古代兵器史的发展大概是什么流程？](https://daily.zhihu.com/story/9762229)
+- [各个时代都有哪些占据绝对优势的「顶级掠食者」？](https://daily.zhihu.com/story/9762231)
+- [为什么星星看起来不模糊，尽管地球一直在动？](https://daily.zhihu.com/story/9762234)
+- [如何证明或反驳「一个红色的物体，当没有人看它的时候，它依然是红色」？](https://daily.zhihu.com/story/9762292)
+- [如何让太阳从西边升起？](https://daily.zhihu.com/story/9762295)
 <!-- BLOG-POST-LIST:END -->
