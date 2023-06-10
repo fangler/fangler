@@ -6,9 +6,9 @@
 
 ### 3. DONE
 <!-- BLOG-POST-LIST:START -->
-- [有哪些名字不好听，却很美的植物？](https://daily.zhihu.com/story/9762441)
-- [新疆的历史在汉朝以前是什么样的？](https://daily.zhihu.com/story/9762397)
-- [国内有哪些博物馆值得一去？](https://daily.zhihu.com/story/9762444)
-- [如果有一种技术能把两个人的大脑神经完全链接在一起，将会是两个还是一个自我意识呢？](https://daily.zhihu.com/story/9762454)
-- [建筑学中什么叫做大师级作品?](https://daily.zhihu.com/story/9762455)
+- [建筑结构设计和音乐有着某些关系吗？](https://daily.zhihu.com/story/9762470)
+- [为什么猫不喜欢和狗玩？但狗却总喜欢粘着猫？](https://daily.zhihu.com/story/9762478)
+- [为什么所有的恐龙都灭绝了？](https://daily.zhihu.com/story/9762480)
+- [如果羊膜动物和两栖动物全部灭绝，鱼类还可能重新登陆吗?](https://daily.zhihu.com/story/9762534)
+- [有没有什么东西是放久了还可以吃的？](https://daily.zhihu.com/story/9762549)
 <!-- BLOG-POST-LIST:END -->
