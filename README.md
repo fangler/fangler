@@ -6,9 +6,9 @@
 
 ### 3. DONE
 <!-- BLOG-POST-LIST:START -->
-- [为什么水在 4℃ 以上是热胀冷缩，而 4℃ 以下热缩冷胀？](https://daily.zhihu.com/story/9762864)
-- [战国时期到秦朝的剑，究竟是青铜剑还是铁剑？](https://daily.zhihu.com/story/9762843)
-- [人类是通过语言介质进行思考的吗？](https://daily.zhihu.com/story/9762849)
-- [宇宙天体有哪些超乎想象的演化方式？](https://daily.zhihu.com/story/9762855)
-- [瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9762910)
+- [突然的声响让人吓一跳是简单反射吗？](https://daily.zhihu.com/story/9762879)
+- [为什么中国很多火车站的设计都是二楼候车，一楼站台，地下层出站？](https://daily.zhihu.com/story/9762921)
+- [为什么粉笔写字时与黑板呈直角划线时会画出虚线？](https://daily.zhihu.com/story/9762889)
+- [有哪些建立在湖心岛上的城市？](https://daily.zhihu.com/story/9762890)
+- [将金属棒插入地壳中，通过热传导获得能量可行吗？](https://daily.zhihu.com/story/9762896)
 <!-- BLOG-POST-LIST:END -->
