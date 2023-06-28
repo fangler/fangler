@@ -6,9 +6,9 @@
 
 ### 3. DONE
 <!-- BLOG-POST-LIST:START -->
-- [博物馆中令你最震惊的一件文物是什么？](https://daily.zhihu.com/story/9763092)
-- [有哪些古籍是曾经失传，到近现代才被重新发现的？](https://daily.zhihu.com/story/9763093)
-- [为什么很多恐龙用两条腿走路，而现在大部分哺乳动物用四条腿走路？](https://daily.zhihu.com/story/9763230)
-- [如果有一个存在了上亿年的垃圾堆，会进化出吃塑料的生物吗?](https://daily.zhihu.com/story/9763234)
-- [为什么吴背蜀，杀关羽被那么多人诟病？](https://daily.zhihu.com/story/9763235)
+- [信鸽传信原理是什么？](https://daily.zhihu.com/story/9763207)
+- [三国演义中虚构南蛮人物姓名是怎么取的？](https://daily.zhihu.com/story/9763183)
+- [孔乙己是个读书人，那为什么他还要偷书卖？](https://daily.zhihu.com/story/9763191)
+- [徽派建筑和江南园林建筑的区别是什么？](https://daily.zhihu.com/story/9763213)
+- [瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9763221)
 <!-- BLOG-POST-LIST:END -->
